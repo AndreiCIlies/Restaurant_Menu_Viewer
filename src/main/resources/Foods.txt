@@ -1,0 +1,16 @@
+Mashed Potatoes
+3 Potatoes Butter Salt
+300 grams
+5.5
+Rice with Vegetables
+2 Rice Vegetables
+250
+4.5
+Spaghetti Carbonara
+5 Spaghetti Salt Bacon Cream Cheese
+350
+7.0
+Pizza
+1 Tomatoes
+250
+30.0

@@ -1,0 +1,6 @@
+Coca Cola
+250 5.0
+Fanta
+300 5.5
+Mint Lemonade
+300 6.5
